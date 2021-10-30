@@ -34,6 +34,7 @@ function addImageElement(imageUrl, imageDes){
 
     let iconDownload = document.createElement("i");
     iconDownload.className = "fas fa-download";
+    iconDownload.setAttribute("onclick","downloadImage('"+ imageUrl +"')")
     
     btnDownload.appendChild(iconDownload);//div_btn_download--> icon download
 
@@ -57,7 +58,7 @@ function addImageElement(imageUrl, imageDes){
     
     element.appendChild(wrapper);//img_block>img_wrapper
 
-    element.onclick = previewImage(imageUrl);
+    // element.onclick = previewImage(imageUrl);
     element.setAttribute("onclick", "previewImage( '" + imageUrl + "')");
 
     let fixer = document.getElementById("galleryFixer");
@@ -77,10 +78,7 @@ fetch("json/data.json")
   .then(response => response.json())
   .then(jsonData => {
 
-
-
     //  console.log( jsonData.imageData[2].image_id );//access json elements
-
 
     for(const key in jsonData){
         console.log(`${key} : ${jsonData[key]}`);//gives imageData object arrays
@@ -92,13 +90,6 @@ fetch("json/data.json")
             
         }
     }
-    
-      
-    // for(const key in jsonData){
-    //     if(jsonData.hasOwnProperty(key)){
-    //         console.log(`${key} : ${jsonData[key]}`)
-    //       }
-    // }
 
 });
 
@@ -123,12 +114,24 @@ function previewImage(url){
 function closePreviewBox(){
     const previewBox = document.getElementById("previewBox");
     previewBox.style.display = "none";
-    // previewBox.style.visibility = "hidden";   
 }
 
 function openPreviewBox(){
     const previewBox = document.getElementById("previewBox");
     previewBox.style.display = "block";
-    // previewBox.style.visibility = "visible";   
 }
 
+function downloadImage(url){
+
+    const previewBox = document.getElementById("previewBox");
+    
+    const previewBoxAnchor = document.getElementById("previewBoxAnchor");
+    previewBoxAnchor.setAttribute("href", url);
+
+    const previewBoxImage = document.getElementById("previewBoxImage");
+    previewBoxImage.setAttribute("src" , url);
+    previewBoxImage.setAttribute("onclick" , " ");
+
+    previewBoxAnchor.click();
+
+}
