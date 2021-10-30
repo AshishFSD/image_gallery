@@ -94,50 +94,50 @@
             "image_description" : "The Mandarin Duck (Aix Galericulata)",
             "image_id" : 13
         }, {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-orange-marigold-flower-royalty-free-image-1580855457.jpg",
+            "image_url" : "pics/close-up-of-orange-marigold-flower-royalty-free-image-1580855457.jpg",
             "image_description" : "Marigold",
             "image_id" : 12
         }, {
-            "image_url" : "https://30a.com/wp-content/uploads/2020/12/1076px-Clown_fish_in_the_Andaman_Coral_Reef-768x515.jpg",
+            "image_url" : "pics/1076px-Clown_fish_in_the_Andaman_Coral_Reef-768x515.jpg",
             "image_description" : "Clownfish",
             "image_id" : 11
         }, {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sweet-pea-lathyrus-odoratus-variety-not-identified-news-photo-1617048750.?crop=1.00xw:0.788xh;0,0.125xh&resize=768:*",
+            "image_url" : "pics/sweet-pea-lathyrus-odoratus-variety-not-identified-news-photo-1617048750_.jpg",
             "image_description" : "Sweet Pea",
             "image_id" : 8
         },
         {
-            "image_url" : "https://cdn.britannica.com/49/61349-050-9FFBEB28/El-Castillo-pyramid-plaza-Toltec-state-Yucatan.jpg",
+            "image_url" : "pics/El-Castillo-pyramid-plaza-Toltec-state-Yucatan.jpg",
             "image_description" : "El Castillo, Yucatán state, Mexico",
             "image_id" : 22
         }, 
         {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-of-christmas-rose-single-white-flower-royalty-free-image-1578194497.jpg",
+            "image_url" : "pics/close-up-of-christmas-rose-single-white-flower-royalty-free-image-1578194497.jpg",
             "image_description" : "Hellebore",
             "image_id" : 7
         },  {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/apple-tree-flowers-1508785049.jpg",
+            "image_url" : "pics/apple-tree-flowers-1508785049.jpg",
             "image_description" : "Apple Tree Flowers",
             "image_id" : 5
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/Ramphastos-Sulfuratus-top10-beautiful-birds-1.jpg",
+            "image_url" : "pics/Ramphastos-Sulfuratus-top10-beautiful-birds-1.jpg",
             "image_description" : "The Keel-Billed Toucan (Ramphastos Sulfuratus)",
             "image_id" : 4
         }, 
         {
-            "image_url" : "https://www.planetware.com/wpimages/2019/11/seven-natural-wonders-of-the-world-victoria-falls-aerial.jpg",
+            "image_url" : "pics/seven-natural-wonders-of-the-world-victoria-falls-aerial.jpg",
             "image_description" : "Victoria Falls is located in Africa , borders of Zambia and Zimbabwe",
             "image_id" : 22
         }, {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/close-up-image-of-the-beautiful-vibrant-orange-royalty-free-image-1580855109.jpg",
+            "image_url" : "pics/close-up-image-of-the-beautiful-vibrant-orange-royalty-free-image-1580855109.jpg",
             "image_description" : "Alstroemerias",
             "image_id" : 3
         }, {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/petunias-royalty-free-image-1580855855.jpg",
+            "image_url" : "pics/petunias-royalty-free-image-1580855855.jpg",
             "image_description" : "Petunia",
             "image_id" : 2
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/The-Flamingo-1.jpg",
+            "image_url" : "pics/The-Flamingo-1.jpg",
             "image_description" : "The Flamingo (Phoenicopteriformes)",
             "image_id" : 1
         }
