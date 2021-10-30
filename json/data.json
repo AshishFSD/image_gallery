@@ -3,32 +3,32 @@
    [
        {
 
-            "image_url" : "https://cdn.britannica.com/q:60/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg",
+            "image_url" : "pics/Great-Wall-of-China-Beijing.jpg",
             "image_description" : "Great Wall of China, near Beijing.",
             "image_id" : 23
         },
          {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hydrangea-flowers-royalty-free-image-1584638572.jpg",
+            "image_url" : "pics/hydrangea-flowers-royalty-free-image-1584638572.jpg",
             "image_description" : "Hydrangea",
             "image_id" : 6
         },
         {
-            "image_url" : "https://cdn.britannica.com/25/153525-050-FC43840D/Khaznah-Petra-Jordan.jpg",
+            "image_url" : "pics/Khaznah-Petra-Jordan.jpg",
             "image_description" : "The Khaznah (“Treasury”) at Petra, Jordan.",
             "image_id" : 22
         },
         {
-            "image_url" : "https://cdn.britannica.com/30/94530-050-99493FEA/Machu-Picchu.jpg",
+            "image_url" : "pics/Machu-Picchu.jpg",
             "image_description" : "Machu Picchu, Peru",
             "image_id" : 22
         },
         {
-            "image_url" : "https://cdn.britannica.com/54/150754-050-5B93A950/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg",
+            "image_url" : "pics/statue-Christ-the-Redeemer-Rio-de-Janeiro.jpg",
             "image_description" : "Christ the Redeemer statue, Rio de Janeiro",
             "image_id" : 22
         },
         {
-            "image_url" : "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg",
+            "image_url" : "pics/Colosseum-Rome-Italy.jpg",
             "image_description" : "Colosseum in Rome ",
             "image_id" : 22
         },
