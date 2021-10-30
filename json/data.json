@@ -58,39 +58,39 @@
             "image_id" : 22
         }, 
         {
-            "image_url" : "https://www.planetware.com/wpimages/2019/11/seven-natural-wonders-of-the-world-great-barrier-reef.jpg",
+            "image_url" : "pics/seven-natural-wonders-of-the-world-great-barrier-reef.jpg",
             "image_description" : "Great Barrier Reef",
             "image_id" : 20
         }, {
-            "image_url" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vase-with-flowers-royalty-free-image-1578194335.jpg",
+            "image_url" : "pics/vase-with-flowers-royalty-free-image-1578194335.jpg",
             "image_description" : "The Painted Bunting (Passerina Ciris)",
             "image_id" : 9
         }, {
-            "image_url" : "https://www.planetware.com/wpimages/2019/11/seven-natural-wonders-of-the-world-harbor-of-rio-de-janeiro.jpg",
+            "image_url" : "pics/seven-natural-wonders-of-the-world-harbor-of-rio-de-janeiro.jpg",
             "image_description" : "Harbor of Rio de Janeiro",
             "image_id" : 19
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/Banded-Kingfisher-beautiful-bird-1.jpg",
+            "image_url" : "pics/Banded-Kingfisher-beautiful-bird-1.jpg",
             "image_description" : "Banded Kingfisher (Lacedo Pulchella)",
             "image_id" : 18
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/blue-jay-beautiful-1.jpg",
+            "image_url" : "pics/blue-jay-beautiful-1.jpg",
             "image_description" : "Blue Jay (Cyanocitta Cristata)",
             "image_id" : 17
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/atlantic-puffin-bird-1.jpg",
+            "image_url" : "pics/atlantic-puffin-bird-1.jpg",
             "image_description" : "Atlantic Puffin (Fratercula Arctica)",
             "image_id" : 16
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/The-Formosan-Magpie-1.jpg",
+            "image_url" : "pics/The-Formosan-Magpie-1.jpg",
             "image_description" : "The Formosan Magpie (Urocissa Caerulea)",
             "image_id" : 15
         }, {
-            "image_url" : "https://cdn2.stylecraze.com/wp-content/uploads/2013/07/tulips-flowers.jpg.webp",
+            "image_url" : "pics/tulips-flowers.jpg.webp",
             "image_description" : "Tulips",
             "image_id" : 14
         }, {
-            "image_url" : "https://richardalois.com/wp-content/uploads/2020/08/Mandarin-Duck-1.jpg",
+            "image_url" : "pics/Mandarin-Duck-1.jpg",
             "image_description" : "The Mandarin Duck (Aix Galericulata)",
             "image_id" : 13
         }, {
