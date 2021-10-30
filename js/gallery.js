@@ -57,6 +57,9 @@ function addImageElement(imageUrl, imageDes){
     
     element.appendChild(wrapper);//img_block>img_wrapper
 
+    element.onclick = previewImage(imageUrl);
+    element.setAttribute("onclick", "previewImage( '" + imageUrl + "')");
+
     let fixer = document.getElementById("galleryFixer");
     fixer.appendChild(element);
 
@@ -98,3 +101,34 @@ fetch("json/data.json")
     // }
 
 });
+
+
+
+function previewImage(url){
+
+
+    const previewBox = document.getElementById("previewBox");
+    
+
+    const previewBoxAnchor = document.getElementById("previewBoxAnchor");
+    previewBoxAnchor.setAttribute("href", url);
+
+    const previewBoxImage = document.getElementById("previewBoxImage");
+    previewBoxImage.setAttribute("src" , url);
+    previewBoxImage.setAttribute("onclick" , " ");
+
+    openPreviewBox();
+}
+
+function closePreviewBox(){
+    const previewBox = document.getElementById("previewBox");
+    previewBox.style.display = "none";
+    // previewBox.style.visibility = "hidden";   
+}
+
+function openPreviewBox(){
+    const previewBox = document.getElementById("previewBox");
+    previewBox.style.display = "block";
+    // previewBox.style.visibility = "visible";   
+}
+
