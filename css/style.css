@@ -97,8 +97,8 @@ nav{
     max-width: 100%;
     height: auto;
     border:1px solid rgb(197, 75, 75);
-    align-self: center;
-    
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 10vh;
     margin-bottom: 10vh;
     display: block;
