@@ -1,33 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awsome Image Gallery</title>
-    <link
-      rel="stylesheet"
-      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
-      crossorigin="anonymous"
-    />
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
-    </style>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
     <link rel="stylesheet" href="css/style.css">
     <script src="js/gallery.js"></script>
 </head>
+
 <body>
 
     <nav>
-        <span class="title">Awsome Image Gallery</span>
+        <h1 class="title">Awsome Image Gallery</h1>
 
-        <div class="nav_fixer">
-            <span class="nav_links">download</span>
-            <span class="nav_links">preview</span>
-            <span class="nav_links">enlarge</span>
-            <span class="nav_links">hover</span>
-        </div>
+        <ul class="nav_fixer">
+            <li class="nav_links">download</li>
+            <li class="nav_links">preview</li>
+            <li class="nav_links">enlarge</li>
+            <li class="nav_links">hover</li>
+        </ul>
     </nav>
     <div class="gallery_wrapper">
 
@@ -76,10 +72,10 @@
 
         </div>
 
-        
+
 
     </div>
-    
+
     <div class="previewBox" id="previewBox" onclick="closePreviewBox()">
         <i class="fas fa-times" onclick="closePreviewBox()"></i>
         <a id="previewBoxAnchor" href="" download="image">download</a>
@@ -88,4 +84,5 @@
 
 
 </body>
+
 </html>
